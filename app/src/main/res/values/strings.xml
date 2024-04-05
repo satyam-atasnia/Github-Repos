@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github Repos</string>
+    <string name="open_in_browser">Open in browser</string>
+</resources>
